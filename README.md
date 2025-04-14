@@ -10,7 +10,7 @@
 
 1. Clone repository này về trên máy
 ```sh
-https://github.com/ngphctn14/Prototype-Pattern.git
+git clone https://github.com/ngphctn14/Prototype-Pattern.git
 ```
 2. Mở Unity Hub và thêm project
    - Ta nhấn Add ở góc phải trên cùng giao diện và chọn 'Add project from disk'
