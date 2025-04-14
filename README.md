@@ -16,6 +16,6 @@ git clone https://github.com/ngphctn14/Prototype-Pattern.git
    - Ta nhấn Add ở góc phải trên cùng giao diện và chọn 'Add project from disk'
    - Chọn thư mục mà ta đã clone trước đó
    - Lúc này, project sẽ hiện ở danh sách các project
-   - Khi nhấn vào, project sẽ được mở ở Unity Editor.
+   - Khi nhấn vào, project sẽ được mở ở Unity Editor
 3. Tiếp theo, ta mở 'SampleScene' ở thư mục Assets/Scenes
-4. Sau khi chọn SampleScene, ta nhấn nút play và game sẽ chạy.
+4. Sau khi chọn SampleScene, ta nhấn nút play và game sẽ chạy
